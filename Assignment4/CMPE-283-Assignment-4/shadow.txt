@@ -1,0 +1,141 @@
+[11636.050289] virbr0: port 2(vnet0) entered learning state
+[11638.066133] virbr0: port 2(vnet0) entered forwarding state
+[11638.066161] virbr0: topology change detected, propagating
+[11751.330698] CPUID(0x4ffffffd), exit number=0 exits=857331
+[11751.332459] CPUID(0x4ffffffd), exit number=0 exits=857357
+[11751.405178] CPUID(0x4ffffffd), exit number=1 exits=0
+[11751.406299] CPUID(0x4ffffffd), exit number=1 exits=0
+[11751.464722] CPUID(0x4ffffffd), exit number=2 exits=0
+[11751.466825] CPUID(0x4ffffffd), exit number=2 exits=0
+[11751.524842] CPUID(0x4ffffffd), exit number=3 exits=0
+[11751.527192] CPUID(0x4ffffffd), exit number=3 exits=0
+[11751.567062] CPUID(0x4ffffffd), exit number=4 exits=0
+[11751.569433] CPUID(0x4ffffffd), exit number=4 exits=0
+[11751.613196] exit reason number =5 not enabled in KVM
+[11751.618585] exit reason number =5 not enabled in KVM
+[11751.665479] exit reason number =6 not enabled in KVM
+[11751.668092] exit reason number =6 not enabled in KVM
+[11751.712311] CPUID(0x4ffffffd), exit number=7 exits=0
+[11751.714931] CPUID(0x4ffffffd), exit number=7 exits=0
+[11751.760569] CPUID(0x4ffffffd), exit number=8 exits=0
+[11751.762946] CPUID(0x4ffffffd), exit number=8 exits=0
+[11751.809424] CPUID(0x4ffffffd), exit number=9 exits=0
+[11751.817488] CPUID(0x4ffffffd), exit number=9 exits=0
+[11751.884645] CPUID(0x4ffffffd), exit number=10 exits=280938
+[11751.886977] CPUID(0x4ffffffd), exit number=10 exits=280939
+[11751.946971] exit reason number =11 not enabled in KVM
+[11751.951597] exit reason number =11 not enabled in KVM
+[11752.013195] CPUID(0x4ffffffd), exit number=12 exits=0
+[11752.018874] CPUID(0x4ffffffd), exit number=12 exits=0
+[11752.068463] CPUID(0x4ffffffd), exit number=13 exits=0
+[11752.070994] CPUID(0x4ffffffd), exit number=13 exits=0
+[11752.126975] CPUID(0x4ffffffd), exit number=14 exits=101493
+[11752.129880] CPUID(0x4ffffffd), exit number=14 exits=101493
+[11752.179212] CPUID(0x4ffffffd), exit number=15 exits=0
+[11752.181913] CPUID(0x4ffffffd), exit number=15 exits=0
+[11752.230499] CPUID(0x4ffffffd), exit number=16 exits=0
+[11752.233053] CPUID(0x4ffffffd), exit number=16 exits=0
+[11752.280940] exit reason number =17 not enabled in KVM
+[11752.283313] exit reason number =17 not enabled in KVM
+[11752.353174] CPUID(0x4ffffffd), exit number=18 exits=0
+[11752.360194] CPUID(0x4ffffffd), exit number=18 exits=0
+[11752.414210] CPUID(0x4ffffffd), exit number=19 exits=0
+[11752.416669] CPUID(0x4ffffffd), exit number=19 exits=0
+[11752.467828] CPUID(0x4ffffffd), exit number=20 exits=0
+[11752.470594] CPUID(0x4ffffffd), exit number=20 exits=0
+[11752.523694] CPUID(0x4ffffffd), exit number=21 exits=0
+[11752.526809] CPUID(0x4ffffffd), exit number=21 exits=0
+[11752.574251] CPUID(0x4ffffffd), exit number=22 exits=0
+[11752.576721] CPUID(0x4ffffffd), exit number=22 exits=0
+[11752.626263] CPUID(0x4ffffffd), exit number=23 exits=0
+[11752.628724] CPUID(0x4ffffffd), exit number=23 exits=0
+[11752.676719] CPUID(0x4ffffffd), exit number=24 exits=0
+[11752.679598] CPUID(0x4ffffffd), exit number=24 exits=0
+[11752.732735] CPUID(0x4ffffffd), exit number=25 exits=0
+[11752.735638] CPUID(0x4ffffffd), exit number=25 exits=0
+[11752.800048] CPUID(0x4ffffffd), exit number=26 exits=0
+[11752.802676] CPUID(0x4ffffffd), exit number=26 exits=0
+[11752.855390] CPUID(0x4ffffffd), exit number=27 exits=0
+[11752.858905] CPUID(0x4ffffffd), exit number=27 exits=0
+[11752.916962] CPUID(0x4ffffffd), exit number=28 exits=5732292
+[11752.919611] CPUID(0x4ffffffd), exit number=28 exits=5732330
+[11752.975480] CPUID(0x4ffffffd), exit number=29 exits=4
+[11752.978331] CPUID(0x4ffffffd), exit number=29 exits=4
+[11753.026597] CPUID(0x4ffffffd), exit number=30 exits=295253
+[11753.028973] CPUID(0x4ffffffd), exit number=30 exits=295253
+[11753.084651] CPUID(0x4ffffffd), exit number=31 exits=3306
+[11753.087285] CPUID(0x4ffffffd), exit number=31 exits=3306
+[11753.136833] CPUID(0x4ffffffd), exit number=32 exits=0
+[11753.139317] CPUID(0x4ffffffd), exit number=32 exits=0
+[11753.188618] CPUID(0x4ffffffd), exit number=33 exits=0
+[11753.191451] CPUID(0x4ffffffd), exit number=33 exits=0
+[11753.244826] CPUID(0x4ffffffd), exit number=34 exits=0
+[11753.250713] CPUID(0x4ffffffd), exit number=34 exits=0
+[11753.309651] exit reason number = 35 not defined by SDM
+[11753.312683] exit reason number = 35 not defined by SDM
+[11753.368740] CPUID(0x4ffffffd), exit number=36 exits=0
+[11753.371238] CPUID(0x4ffffffd), exit number=36 exits=0
+[11753.426294] CPUID(0x4ffffffd), exit number=37 exits=0
+[11753.428755] CPUID(0x4ffffffd), exit number=37 exits=0
+[11753.489082] exit reason number = 38 not defined by SDM
+[11753.491648] exit reason number = 38 not defined by SDM
+[11753.541038] CPUID(0x4ffffffd), exit number=39 exits=0
+[11753.546747] CPUID(0x4ffffffd), exit number=39 exits=0
+[11753.592714] CPUID(0x4ffffffd), exit number=40 exits=0
+[11753.595767] CPUID(0x4ffffffd), exit number=40 exits=0
+[11753.649244] CPUID(0x4ffffffd), exit number=41 exits=0
+[11753.654759] CPUID(0x4ffffffd), exit number=41 exits=0
+[11753.713043] exit reason number = 42 not defined by SDM
+[11753.715842] exit reason number = 42 not defined by SDM
+[11753.758275] CPUID(0x4ffffffd), exit number=43 exits=0
+[11753.760922] CPUID(0x4ffffffd), exit number=43 exits=0
+[11753.808958] CPUID(0x4ffffffd), exit number=44 exits=0
+[11753.811876] CPUID(0x4ffffffd), exit number=44 exits=0
+[11753.862609] CPUID(0x4ffffffd), exit number=45 exits=0
+[11753.865242] CPUID(0x4ffffffd), exit number=45 exits=0
+[11753.925208] CPUID(0x4ffffffd), exit number=46 exits=12
+[11753.927955] CPUID(0x4ffffffd), exit number=46 exits=12
+[11753.982791] CPUID(0x4ffffffd), exit number=47 exits=4
+[11753.985547] CPUID(0x4ffffffd), exit number=47 exits=4
+[11754.036773] CPUID(0x4ffffffd), exit number=48 exits=383853
+[11754.039340] CPUID(0x4ffffffd), exit number=48 exits=383853
+[11754.089224] CPUID(0x4ffffffd), exit number=49 exits=0
+[11754.092178] CPUID(0x4ffffffd), exit number=49 exits=0
+[11754.143197] CPUID(0x4ffffffd), exit number=50 exits=0
+[11754.146243] CPUID(0x4ffffffd), exit number=50 exits=0
+[11754.195636] CPUID(0x4ffffffd), exit number=51 exits=0
+[11754.197892] CPUID(0x4ffffffd), exit number=51 exits=0
+[11754.253058] CPUID(0x4ffffffd), exit number=52 exits=0
+[11754.255494] CPUID(0x4ffffffd), exit number=52 exits=0
+[11754.321857] CPUID(0x4ffffffd), exit number=53 exits=0
+[11754.327709] CPUID(0x4ffffffd), exit number=53 exits=0
+[11754.428558] CPUID(0x4ffffffd), exit number=54 exits=7
+[11754.431221] CPUID(0x4ffffffd), exit number=54 exits=7
+[11754.485829] CPUID(0x4ffffffd), exit number=55 exits=6
+[11754.494270] CPUID(0x4ffffffd), exit number=55 exits=6
+[11754.556811] CPUID(0x4ffffffd), exit number=56 exits=0
+[11754.562771] CPUID(0x4ffffffd), exit number=56 exits=0
+[11754.617215] CPUID(0x4ffffffd), exit number=57 exits=0
+[11754.622970] CPUID(0x4ffffffd), exit number=57 exits=0
+[11754.677307] CPUID(0x4ffffffd), exit number=58 exits=65707
+[11754.680163] CPUID(0x4ffffffd), exit number=58 exits=65707
+[11754.729595] CPUID(0x4ffffffd), exit number=59 exits=0
+[11754.734958] CPUID(0x4ffffffd), exit number=59 exits=0
+[11754.783854] CPUID(0x4ffffffd), exit number=60 exits=0
+[11754.786558] CPUID(0x4ffffffd), exit number=60 exits=0
+[11754.837116] CPUID(0x4ffffffd), exit number=61 exits=0
+[11754.842477] CPUID(0x4ffffffd), exit number=61 exits=0
+[11754.896569] CPUID(0x4ffffffd), exit number=62 exits=0
+[11754.899312] CPUID(0x4ffffffd), exit number=62 exits=0
+[11754.945960] CPUID(0x4ffffffd), exit number=63 exits=0
+[11754.951421] CPUID(0x4ffffffd), exit number=63 exits=0
+[11754.996498] CPUID(0x4ffffffd), exit number=64 exits=0
+[11754.998945] CPUID(0x4ffffffd), exit number=64 exits=0
+[11755.055576] exit reason number = 65 not defined by SDM
+[11755.058256] exit reason number = 65 not defined by SDM
+[11755.112997] exit reason number =66 not enabled in KVM
+[11755.118547] exit reason number =66 not enabled in KVM
+[11755.168758] CPUID(0x4ffffffd), exit number=67 exits=0
+[11755.171976] CPUID(0x4ffffffd), exit number=67 exits=0
+[11755.220835] CPUID(0x4ffffffd), exit number=68 exits=0
+[11755.223332] CPUID(0x4ffffffd), exit number=68 exits=0
